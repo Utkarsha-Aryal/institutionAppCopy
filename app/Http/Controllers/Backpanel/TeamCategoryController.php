@@ -33,6 +33,8 @@ class TeamCategoryController extends Controller
              $message = [
                  'team_category.required' => 'Please enter team category.',
                 //  this is the edited part
+                // ram ram ram
+                // eekakasssak 
              ];
  
              $validation = Validator::make($request->all(), $rules, $message);
